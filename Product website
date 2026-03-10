@@ -337,4 +337,20 @@ DOCTYPE html>
                 category: "Wearables",
                 price: "₹3,999",
                 image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60",
-                link: "https://wa.me/?text=I%20want%
+                link: "https://wa.me/?text=I%20want%<!DOCTYPE html>
+<html>
+<head>
+<title>My Product</title>
+</head>
+<body>
+
+<h1>Welcome to My Product Website</h1>
+
+<p>यह मेरा main product है</p>
+
+<a href="PASTE_YOUR_PRODUCT_LINK_HERE">
+<button>Buy Now</button>
+</a>
+
+</body>
+</html>
